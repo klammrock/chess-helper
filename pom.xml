@@ -12,6 +12,7 @@
         <module>console-app</module>
         <module>lib</module>
         <module>desktop-swing</module>
+        <module>desktop-fx</module>
     </modules>
 
     <properties>
